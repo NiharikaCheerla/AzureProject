@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectniha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64b9acd1-1cb3-41fb-88bb-e70b299eb9b1",
+		"tenantId": "e2d3a6c9-e748-4df8-9483-a433b8e5e6c9"
+	}
+}
